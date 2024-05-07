@@ -15,9 +15,9 @@ catering_manager:
   email: dmosely@levyrestaurants.com 
   phone: 5124044254
 it_coordinator:
-  name: Jeff Moore
-  email: jeff.moore@austintexas.gov
-  phone: 5124044033
+  name: Crystal Rivera
+  email: crystal.rivera@austintexas.gov
+  phone: 5124044027
 theme: 
 remote_theme: cityofaustin/jekyll-theme-kocurek@v1.0
 searchable: true
